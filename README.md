@@ -63,7 +63,7 @@ A deep learning model designed for image classification using convolutional laye
 
 - **Test Accuracy:** 99.11%
 
-![CNN Result](images/cnn_result.png)
+![CNN Result](images/cnn_result.PNG)
 
 ## Comparison
 
