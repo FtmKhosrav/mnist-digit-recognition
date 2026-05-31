@@ -107,7 +107,7 @@ python cnn_classifier.py
 This project demonstrates that deep learning (CNN) significantly outperforms traditional machine learning (KNN) for image classification tasks such as handwritten digit recognition.
 
 
-## 👤 Author
+## 👩‍💻 Author
 
 **Fateme Khosravi**
 Computer Science Graduate | Interested in Data Science, Algorithms, and Systems Analysis
