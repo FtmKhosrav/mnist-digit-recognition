@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MNIST Digit Recognition (KNN vs CNN)
 
 ## Project Overview
@@ -138,3 +139,6 @@ This project demonstrates that deep learning (CNN) significantly outperforms tra
 
 **Fateme Khosravi**
 Computer Science Graduate | Interested in Data Science, Algorithms, and Systems Analysis
+=======
+# mnist-digit-recognition
+>>>>>>> 3281c8cde3660f8a6a7c819de162127bf5db691f
