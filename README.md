@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # MNIST Digit Recognition (KNN vs CNN)
 
 ## Project Overview
@@ -110,26 +109,6 @@ python cnn_classifier.py
 ```
 
 
-## Visual Results
-
-You can add screenshots in the repository:
-
-- KNN output result
-- CNN training accuracy / test result
-
-Suggested folder:
-```
-/images
-```
-
-Then reference them like:
-
-```markdown
-![KNN Result](images/knn_result.png)
-![CNN Result](images/cnn_result.png)
-```
-
-
 ## Conclusion
 
 This project demonstrates that deep learning (CNN) significantly outperforms traditional machine learning (KNN) for image classification tasks such as handwritten digit recognition.
@@ -139,6 +118,4 @@ This project demonstrates that deep learning (CNN) significantly outperforms tra
 
 **Fateme Khosravi**
 Computer Science Graduate | Interested in Data Science, Algorithms, and Systems Analysis
-=======
-# mnist-digit-recognition
->>>>>>> 3281c8cde3660f8a6a7c819de162127bf5db691f
+
